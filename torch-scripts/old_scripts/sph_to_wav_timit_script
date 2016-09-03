@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "converting..."
+echo
+find . -iname "*.wav" -exec ./sph2pipe -f wav {} {}.wov \;
+echo "deleting..."
+echo
+find . -iname "*.wav" -delete
+echo "renaming..."
+echo
+find . -iname "*wav.wov" -exec sh -c 'mv "$1" "${1%.wav.wov}.wav"' _ {} \;
+echo "done"
+echo
