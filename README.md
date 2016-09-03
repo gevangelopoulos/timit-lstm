@@ -1,4 +1,4 @@
-# Long Short-Term Memory Neural Networks for Automatic Speech Recogniotion on the TIMIT dataset
+# Long Short-Term Memory Neural Networks for Automatic Speech Recognition on the TIMIT dataset
 
 This repo contains [Torch] scripts and models I created when working on my master's thesis [Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition], in the [ESAT-MICAS] lab of KU Leuven, Belgium, from February till July 2016.
 
