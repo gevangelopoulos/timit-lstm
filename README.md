@@ -18,6 +18,8 @@ Pretrained models with snapshots over epochs are also included, since an LSTM pa
 
 Having a basic understanding of the Lua programming language and the Torch framework can be advantageous, and tweaking the code to use different LSTM sizes or architectures shouldn't be too difficult. Knowing a little more about machine learning could help you expand this model into a larger, customized application such as a deep LSTM, a convnet-LSTM combination, a GRU and more.
 
+
+
 ### Dependencies
 
 
@@ -34,6 +36,8 @@ This project uses parts of many other projects. While the dependencies are not w
 
 ### More interesting, useful things
 
+
+* [good-enough-lstm] - How do LSTM networks perform when their parameters are butchered in various ways? This repository was also created during my master's thesis and uses Matlab scripts to perform arithmetic, mathematical and hardware manipulations on trained LSTMs.
 * [char-rnn] - Useful and fun character-level generative language models in Torch. Give it a text in a style, and it will learn to generate similar texts!
 * [Andrej Karpathy's blog] - A cool blog from a cool guy working on deeplearning.
 * [Christopher Olah's blog] - Another cool blog talking about deep learning, RNNs, LSTMs, data visualization and more.
@@ -59,6 +63,8 @@ This project uses parts of many other projects. While the dependencies are not w
 
 [Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition]:<http://www.google.com>
 [ESAT-MICAS]: <http://www.esat.kuleuven.be/micas/>
+[good-enough-lstm]:<https://github.com/solidaqua/good-enough-lstm>
+
 
 
 
