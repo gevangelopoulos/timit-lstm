@@ -20,6 +20,7 @@ Having a basic understanding of the Lua programming language and the Torch frame
 
 ### Dependencies
 
+
 This project uses parts of many other projects. While the dependencies are not well defined, the following list should give you pretty much anything you'll need to reproduce these results.
 
 * [The TIMIT Dataset] - The TIMIT dataset used for this research, which was licensed from the Linguistic Data Consortium.
