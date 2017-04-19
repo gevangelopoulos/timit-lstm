@@ -44,6 +44,12 @@ This project uses parts of many other projects. While the dependencies are not w
 * [LDC] - How to use data from the Linguistic Data Consortium
 * [matio] - A .mat file i/o library.
 
+### Notes - Disclaimer - Citing
+* The code here and the thesis text are bound by KU Leuven's [Student Thesis Copyright Regulations].
+* If you want to reuse the code or you find the thesis useful to your research, please cite it according to the [bib entry].
+
+
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -64,6 +70,9 @@ This project uses parts of many other projects. While the dependencies are not w
 [Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition]:<http://vivliothmmy2.ee.auth.gr/wp-content/uploads/participants-database/evangelopoulosgeorgios_thesis.pdf>
 [ESAT-MICAS]: <http://www.esat.kuleuven.be/micas/>
 [good-enough-lstm]:<https://github.com/solidaqua/good-enough-lstm>
+
+[Student Thesis Copyright Regulations]:<https://admin.kuleuven.be/sab/jd/en/student-thesis-copyright>
+[bib entry]:<https://github.com/solidaqua/timit-lstm/blob/master/master_thesis_citation.bib>
 
 
 
