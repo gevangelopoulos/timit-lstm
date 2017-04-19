@@ -61,7 +61,7 @@ This project uses parts of many other projects. While the dependencies are not w
 [LDC]:<https://www.ldc.upenn.edu/data-management/using>
 [matio]:<https://github.com/tbeu/matio>
 
-[Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition]:<http://www.google.com>
+[Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition]:<http://vivliothmmy2.ee.auth.gr/wp-content/uploads/participants-database/evangelopoulosgeorgios_thesis.pdf>
 [ESAT-MICAS]: <http://www.esat.kuleuven.be/micas/>
 [good-enough-lstm]:<https://github.com/solidaqua/good-enough-lstm>
 
