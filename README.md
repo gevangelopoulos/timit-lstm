@@ -1,6 +1,6 @@
 # Long Short-Term Memory Neural Networks for Automatic Speech Recognition on the TIMIT dataset
 
-This repo contains [Torch] scripts and models I created when working on my master's thesis [Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition], in the [ESAT-MICAS] lab of KU Leuven, Belgium, from February till July 2016.
+This repo contains [Torch] scripts and models I created when working on my master's thesis [Efficient Hardware Mapping of LSTM Neural Networks for Speech Recognition] ([alternate link]), in the [ESAT-MICAS] lab of KU Leuven, Belgium, from February till July 2016.
 
 The code here is by no means perfect; It's a collection of patchy scripts aimed to do their job correctly and fast.
 The collections includes:
@@ -73,6 +73,7 @@ This project uses parts of many other projects. While the dependencies are not w
 
 [Student Thesis Copyright Regulations]:<https://admin.kuleuven.be/sab/jd/en/student-thesis-copyright>
 [bib entry]:<https://github.com/solidaqua/timit-lstm/blob/master/master_thesis_citation.bib>
+[alternate link]:<https://github.com/solidaqua/timit-lstm/blob/master/evangelopoulosgeorgios_thesis.pdf>
 
 
 
